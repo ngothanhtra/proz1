@@ -1,0 +1,5 @@
+Ho_ten = input()
+Tuoi = int(input())
+print("Ho ten:", Ho_ten)
+print("Tuoi:", Tuoi)
+print("Chao ban", Ho_ten, ",", "chuc mung sinh nhat thu", Tuoi, "!!!")
